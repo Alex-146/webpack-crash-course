@@ -1,0 +1,16 @@
+@import "fonts.css";
+/* @import "~normalize.css"; */
+
+.container > p {
+    color: green;
+    text-transform: uppercase;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+}
+
+.logo {
+    background-image: url("../assets/illuminati-symbol-512.png");
+    background-size: cover;
+    width: 512px;
+    height: 512px;
+}
